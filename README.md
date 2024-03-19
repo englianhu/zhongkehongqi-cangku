@@ -5,7 +5,10 @@
 鬼谷传奇，秦人牧马；
 逆水行舟，不进则退，
 学海无涯，唯勤是岸。
+
 高频量化对冲中科红旗操作系统，学术与一科研用途数据库。
+
+[🚩🇨🇳🏹🦔中科红旗 RedFlag Linux](https://github.com/englianhu/RedFlag-Linux)
 
 #### 软件架构
 软件架构说明
